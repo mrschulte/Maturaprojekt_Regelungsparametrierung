@@ -1,0 +1,10 @@
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\bin\Debug\Regelstreckenparametrierung.exe.config
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\bin\Debug\Regelstreckenparametrierung.exe
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\bin\Debug\Regelstreckenparametrierung.pdb
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.csproj.AssemblyReference.cache
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.Form1.resources
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.Properties.Resources.resources
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.csproj.GenerateResource.cache
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.csproj.CoreCompileInputs.cache
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.exe
+C:\Users\mrsch\Documents\Schule\Automation\5.Klasse\Regelstreckenparametrierung\obj\Debug\Regelstreckenparametrierung.pdb
